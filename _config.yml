@@ -16,7 +16,7 @@ minima:
   social_links:
     twitter: 
     github:  
-    rss: 
+    rss: rss
     # devto:
     # dribbble: 
     # facebook: 
@@ -53,7 +53,6 @@ minima:
 
 # Build settings
 theme: minima
-    skin: sunrise
 
 plugins:
  - jekyll-feed
