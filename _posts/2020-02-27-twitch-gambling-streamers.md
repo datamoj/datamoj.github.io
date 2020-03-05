@@ -50,7 +50,8 @@ These are hard ideas to prove because it is nearly impossible to know about the 
 
 Code and all figures are available on Github.
 
-All figures: https://github.com/datamoj/datamoj.github.io/tree/master/_posts/images/atalaypost1
-Code: https://github.com/kutlay/twitchtonumber (Soon)
+All figures: [Github](https://github.com/datamoj/datamoj.github.io/tree/master/_posts/images/atalaypost1)
+
+Code: [TwitchtoNumber](https://github.com/kutlay/twitchtonumber)
 
 
