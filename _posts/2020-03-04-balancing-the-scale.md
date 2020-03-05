@@ -8,11 +8,11 @@ By Daniel Dykiel
 
 ## The West as the Center of the Universe
 
-Nigeria used to be a British colony. The justification for why, in my junior-year English class, we were reading a single work by an African author. My English teacher’s peppy smile shone brightly under the fluorescent lights, and she looked around the room, to see if we were as excited as she was.
+*Nigeria used to be a British colony.* The justification for why, in my junior-year English class, we were reading a single work by an African author. My English teacher’s peppy smile shone brightly under the fluorescent lights, and she looked around the room, to see if we were as excited as she was.
 
- My teacher had accomplished something notable. She and the other English teachers had worked within the constraints of the English curriculum—thou shalt teach British literature in eleventh grade—and found a way to give students a break from works written by Western, white, mostly male authors.
+ My teacher had, indeed, accomplished something notable. She and the other English teachers had worked within the constraints of the English curriculum—*thou shalt teach British literature in eleventh grade*—and found a way to give students a break from works written by Western, white, mostly male authors.
 
-But the reasoning was skewed. Why was it that we could only read Purple Hibiscus, by Chimamanda Ngozi Adichie—which focused on Nigerian culture—only because of the country’s connection to British colonial rule? Why wasn’t there space for it elsewhere in the curriculum? Sophomore year was American literature, while Freshman and Senior year were unthemed. But even then, we read overwhelmingly American or British works.
+But the reasoning was skewed. Why was it that we could only read *Purple Hibiscus*, by Chimamanda Ngozi Adichie—which focused on Nigerian culture—only because of the country’s connection to British colonial rule? Why wasn’t there space for it elsewhere in the curriculum? Sophomore year was American literature, while Freshman and Senior year were unthemed. But even then, we read overwhelmingly American or British works.
 
 This reminded me how “World History” was thinly-veiled “European History,” with three weeks of African history shoved in the middle, to say nothing of Asia or Latin America. If our school did move away from a Western focus, it shoved whole swathes of the world into tiny boxes, bursting at the seams.
 
@@ -43,15 +43,15 @@ This was relevant to another area I wanted to considert: how the diversity of wo
 This graph revealed some interesting trends in the data. As the publication dates become more recent, we read slightly more works by female authors. 
 ![Graph of author nationality over time](https://i.imgur.com/FNAuK1R.png)
 
-For works published before the 1950s, we didn’t read a single work by a non-white American or British author. The first work we read by a non-white Western author was A Raisin the Sun, by Lorraine Hansberry, published in 1959. 
+For works published before the 1950s, we didn’t read a single work by a non-white American or British author. The first work we read by a non-white Western author was *A Raisin the Sun*, by Lorraine Hansberry, published in 1959. 
 
 ## Analysing Diversity Over Time
 
 It seems like one way to diversify the English curriculum could be to teach more contemporary works, as contemporary works assigned tend to be more diverse in terms of gender and ethnicity.
 
-Contemporary works often also have the benefit of being more engaging for students. Students in my classes were mainly bored by the ancient epics—I was the only student in my 20+ student class to write my midterm essay on Beowulf. The works I heard students have the most passionate discussions about tended to be more contemporary, such as The Bluest Eye by Toni Morrison (1970) or Into the Wild by John Kraukaur (1996).
+Contemporary works often also have the benefit of being more engaging for students. Students in my classes were mainly bored by the ancient epics—I was the only student in my 20+ student class to write my midterm essay on Beowulf. The works I heard students have the most passionate discussions about tended to be more contemporary, such as *The Bluest Eye* by Toni Morrison (1970) or *Into the Wild* by John Kraukaur (1996).
 
-By far the most popular assigned work in my high school was Homegoing by Yaa Gyasi (2016). It was assigned to be read by only some classes, instead of Purple Hibiscus, so I didn’t include it in my data. My friends in other classes talked about it so much—and recommended it so strongly—that I ended up reading it despite it not being assigned.
+By far the most popular assigned work in my high school was *Homegoing* by Yaa Gyasi (2016). It was assigned to be read by only some classes, instead of *Purple Hibiscus*, so I didn’t include it in my data. My friends in other classes talked about it so much—and recommended it so strongly—that I ended up reading it despite it not being assigned.
 
 The details of defining the literary cannon and which books have merit to read is outside the scope of this article. However, I do want to argue that, regardless of what ratio we choose of older to newer works, curriculums are currently way over-valuing older works. Was it really necessary to read six works published in the 1950s, but not any works from our own decade? Is the current literary fiction movement—with many new authors of diverse backgrounds telling their stories—really not worth examining? I don’t think we should entirely discard older works—only de-emphasize them. 
 
