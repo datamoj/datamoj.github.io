@@ -83,15 +83,13 @@ Within my highschool, the works read changed based on who the teacher of the cou
 
 While I included The Odyssey and Beowulf in my graph of author nationalities, much of the specifics aren’t known about when these works are written—such as date written and who the author(s) were. As such, I didn’t include them in graphs about gender and time.  
 
-I made graphs using flourish.studio. The links to my graphs, and the data used, are as follows.
-[Author nationality](https://app.flourish.studio/visualisation/1486076/)
-[Publication year](https://app.flourish.studio/visualisation/1486165/)
-[Author gender over time](https://app.flourish.studio/visualisation/1486769/)
-[Author nationality over time](https://app.flourish.studio/visualisation/1486076/)
+I made graphs using flourish.studio. The links to my graphs, and the data used, are as follows.  
+[Author nationality](https://app.flourish.studio/visualisation/1486076/)  
+[Publication year](https://app.flourish.studio/visualisation/1486165/)  
+[Author gender over time](https://app.flourish.studio/visualisation/1486769/)  
+[Author nationality over time](https://app.flourish.studio/visualisation/1486076/)  
 
 ## Sources
-(1)
-<https://en.wikipedia.org/wiki/Acton,_Massachusetts#Demographics>
-(2) 
-<https://www.worldometers.info/world-population/asia-population/>
+(1) <https://en.wikipedia.org/wiki/Acton,_Massachusetts#Demographics>  
+(2) <https://www.worldometers.info/world-population/asia-population/>  
 
