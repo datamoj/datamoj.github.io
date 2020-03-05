@@ -40,7 +40,8 @@ This was relevant to another area I wanted to considert: how the diversity of wo
 
 ![Graph of author gender over time](https://i.imgur.com/mu8JueS.png)
 
-This graph revealed some interesting trends in the data. As the publication dates become more recent, we read slightly more works by female authors. 
+This graph revealed some interesting trends in the data. As the publication dates become more recent, we read slightly more works by female authors.   
+
 ![Graph of author nationality over time](https://i.imgur.com/FNAuK1R.png)
 
 For works published before the 1950s, we didn’t read a single work by a non-white American or British author. The first work we read by a non-white Western author was *A Raisin the Sun*, by Lorraine Hansberry, published in 1959. 
@@ -55,7 +56,7 @@ By far the most popular assigned work in my high school was *Homegoing* by Yaa G
 
 The details of defining the literary cannon and which books have merit to read is outside the scope of this article. However, I do want to argue that, regardless of what ratio we choose of older to newer works, curriculums are currently way over-valuing older works. Was it really necessary to read six works published in the 1950s, but not any works from our own decade? Is the current literary fiction movement—with many new authors of diverse backgrounds telling their stories—really not worth examining? I don’t think we should entirely discard older works—only de-emphasize them. 
 
-As the contemporary works assigned tended to be more diverse, teaching more contemporary works may increase diversity diversity. That being said, there are still many older works by non-Western and/or non-white authors that are worth teaching, such as Things Fall Apart by Chinua Achebe and 100 Years of Solitude by Gabriel Garcia Marquez.
+As the contemporary works assigned tended to be more diverse, teaching more contemporary works may increase diversity diversity. That being said, there are still many older works by non-Western and/or non-white authors that are worth teaching, such as *Things Fall Apart* by Chinua Achebe and *100 Years of Solitude* by Gabriel Garcia Marquez.
 
 ## Conclusion
 
@@ -83,7 +84,8 @@ Within my highschool, the works read changed based on who the teacher of the cou
 
 While I included The Odyssey and Beowulf in my graph of author nationalities, much of the specifics aren’t known about when these works are written—such as date written and who the author(s) were. As such, I didn’t include them in graphs about gender and time.  
 
-I made graphs using flourish.studio. The links to my graphs, and the data used, are as follows.  
+I made graphs using flourish.studio. The links to my graphs, and the data used, are as follows:  
+
 [Author nationality](https://app.flourish.studio/visualisation/1486076/)  
 [Publication year](https://app.flourish.studio/visualisation/1486165/)  
 [Author gender over time](https://app.flourish.studio/visualisation/1486769/)  
