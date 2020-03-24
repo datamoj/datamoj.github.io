@@ -17,7 +17,7 @@ author: Cal Murgu
             position: relative;
             padding: 0 1rem;
             margin: 0 auto;
-            width: 50%;
+            width: 100%;
         }
         .step-first {
             margin: 2rem auto 4rem auto;
