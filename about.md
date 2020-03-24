@@ -6,9 +6,9 @@ permalink: /about/
 
 ## About Datamoj
 
-Datamoj is an expirimental and exploratory writing project. It includes pieces written by multiple authors, all using elements of digital media to tell meaningful stories. We focus especially on data visualization.  
+Datamoj is an experimental and exploratory writing project. It includes pieces written by multiple authors, all using elements of digital media to tell meaningful stories. We focus especially on data visualization.  
 
-Datamoj was founded by New College of Florida students and staff. We created a small class, or "tutorial," where work closely with staff to explore these themes in depth. We read and discuss articles, blogs, and book excerpts. We work collaboratively to brainstorm and pitch stories.
+Datamoj was founded by New College of Florida students and faculty. We created a small class, or "tutorial," where work closely with staff to explore these themes in depth. We read and discuss articles, blogs, and book excerpts. We work collaboratively to brainstorm and pitch stories.
 
 ## About the Authors
 
