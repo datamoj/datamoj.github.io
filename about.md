@@ -18,4 +18,4 @@ Daniel likes to create, whether through writing or computer programs. He's most 
 ### Atalay Kutlay
 
 ### Cal Murgu
-Cal is a Digital Humanities Librarian at the New College of Florida. In another life, he was a historian and [wrote about sexuality](https://onlinelibrary.wiley.com/doi/full/10.1111/1468-0424.12293). You can find him at [calmurgu.com](https://calmurgu.com).
+Cal is the Digital Humanities Librarian at the New College of Florida. He's Canadian. In another life, he was a historian who [wrote about sexuality](https://onlinelibrary.wiley.com/doi/full/10.1111/1468-0424.12293). You can find him at [calmurgu.com](https://calmurgu.com).
