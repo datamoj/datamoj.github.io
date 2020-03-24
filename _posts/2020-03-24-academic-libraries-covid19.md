@@ -3,21 +3,16 @@ layout: post
 author: Cal Murgu
 ---
 
-<!DOCTYPE html>
 <html>
 
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Scrollama: Basic Example</title>
-    <meta name="description" content="Scrollama: Basic Example" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="../style.css" />
     <style>
         #scrolly {
             position: relative;
         }
-
         article {
             position: relative;
             padding: 0 1rem;
@@ -31,7 +26,6 @@ author: Cal Murgu
             font-family: Arial, Helvetica, sans-serif;
             opacity: 100%;
         }
-
         .step {
             margin: 2rem auto 4rem auto;
             background-color: white;
@@ -39,13 +33,11 @@ author: Cal Murgu
             font-family: Arial, Helvetica, sans-serif;
             opacity: 15%;
         }
-
         .step.is-active {
             background-color: white;
             color: #3b3b3b;
             opacity: 100%;
         }
-
         .step p {
             padding: 1rem;
             font-size: 1rem;
@@ -54,7 +46,6 @@ author: Cal Murgu
 </head>
 
 <body>
-        </svg></a>
     <main>
         <section id="intro">
             <h1 class="intro__hed">Basic Example</h1>
@@ -128,7 +119,7 @@ author: Cal Murgu
             scroller
                 .setup({
                     step: "#scrolly article .step",
-                    debug: true,
+                    debug: false,
                     offset: 0.7
                 })
                 .onStepEnter(handleStepEnter)
