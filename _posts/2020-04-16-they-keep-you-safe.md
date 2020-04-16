@@ -14,14 +14,14 @@ author: Daniel Dykiel
 			
 			article {
 			position: relative;
-			padding: 0.5rem;
+			padding: 0.2rem;
 			margin: 0 auto;
 			width: 100%;
 			}
 			
 			.step {
 			  margin: 2rem auto 4rem auto;
-			  background-color: white;
+			  background-color: black;
 			  color: black;
 			  font-family: Arial, Helvetica, sans-serif;
 			  opacity: 15%;
@@ -35,7 +35,7 @@ author: Daniel Dykiel
 			
 			.step p {
 			text-align: center;
-			padding: 0.5rem;
+			padding: 0.2rem;
 			font-size: 1rem;
 			}
 			
