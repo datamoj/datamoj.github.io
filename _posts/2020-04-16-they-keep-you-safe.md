@@ -45,7 +45,7 @@ author: Daniel Dykiel
 	
 	<body>
 	<main>
-	<section id="scroll">
+	<section id="scrolly">
         <article>
           <div class="step" data-step="1">
             <p>STEP 1</p>
