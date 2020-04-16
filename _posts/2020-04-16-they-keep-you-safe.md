@@ -76,7 +76,7 @@ author: Daniel Dykiel
 	  <p>So. My brother. The humanitarian, empathetic soul, who didn’t have a violent bone in his body. My brother, who has made my cry more than any other person on earth.</p> 
 <p>In an image more vivid than memory, more crystalline, with thicker and more vibrant strokes:</p>
 <p>His expression visibly darkens. He says, “I already try hard enough not to hit mom.” His voice sends a cold shock through me. He keeps talking in a similar vein. It fills me with a muddy feeling of fear.</p>
-<p> debug 2 </p>
+<p> debug 3 </p>
 	</div>
         </article>
       </section>
@@ -110,7 +110,7 @@ author: Daniel Dykiel
       function init() {
         // set random padding for different step heights (not required)
         step.forEach(function(step) {
-          var v = 10 + Math.floor((Math.random() * window.innerHeight) / 4);
+          var v = 10 + Math.floor((Math.random() * window.innerHeight) / 15);
           step.style.padding = v + "px 0px";
         });
 
