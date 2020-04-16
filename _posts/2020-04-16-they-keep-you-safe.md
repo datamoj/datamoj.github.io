@@ -14,18 +14,17 @@ author: Daniel Dykiel
 			
 			article {
 			position: relative;
-			padding: 0.2rem;
+			padding: 0.02rem;
 			margin: 0 auto;
 			width: 100%;
 			}
 			
 			.step {
-			  margin: 0.2rem auto 0.2rem auto;
+			  margin: 0.02rem auto 0.02rem auto;
 			  background-color: white;
 			  color: white;
 			  font-family: Arial, Helvetica, sans-serif;
 			  opacity: 15%;
-			  align: center;
 			}
 
 			.step.is-active {
@@ -36,7 +35,7 @@ author: Daniel Dykiel
 			
 			.step p {
 			text-align: center;
-			padding: 0.2rem;
+			padding: 0.02rem;
 			font-size: 1rem;
 			}
 			
@@ -65,9 +64,9 @@ author: Daniel Dykiel
 	<p>Work that is difficult, heart-wrenching, rewarding: but we don’t let it kill.</p>
           </div>
 	  <div class="step" data-step="5">
-	  <a href="https://imgur.com/JG8tQaF"><img src="https://i.imgur.com/JG8tQaF.jpg" title="source: imgur.com" /></a>
+	  <p><a href="https://imgur.com/JG8tQaF"><img src="https://i.imgur.com/JG8tQaF.jpg" title="source: imgur.com" /></a></p>
 	  </div>
-	  <div class ="step" data-step="6":
+	  <div class ="step" data-step="6">
 	  <h>◆</h>
 	  </div>
 	  <div class="step" data-step="7">
@@ -77,6 +76,7 @@ author: Daniel Dykiel
 	  <p>So. My brother. The humanitarian, empathetic soul, who didn’t have a violent bone in his body. My brother, who has made my cry more than any other person on earth.</p> 
 <p>In an image more vivid than memory, more crystalline, with thicker and more vibrant strokes:</p>
 <p>His expression visibly darkens. He says, “I already try hard enough not to hit mom.” His voice sends a cold shock through me. He keeps talking in a similar vein. It fills me with a muddy feeling of fear.</p>
+<p> debug </p>
 	</div>
         </article>
       </section>
