@@ -11,22 +11,19 @@ author: Daniel Dykiel
 			#scrolly {
 			  position: relative;
 			}
-			.scroll__text {
-			  padding: 0 1rem;
-			  max-width: 30rem;
-			}
 			
 			article {
 			position: relative;
 			padding: 0 1rem;
 			margin: 0 auto;
-			width: 33%;
+			width: 100%;
 			}
 			
 			.step {
 			  margin: 2rem auto 4rem auto;
 			  background-color: white;
 			  color: black;
+			  font-size: 10px;
 			  font-family: Arial, Helvetica, sans-serif;
 			  opacity: 15%;
 			}
@@ -109,7 +106,7 @@ author: Daniel Dykiel
         scroller
           .setup({
             step: "#scrolly article .step",
-            debug: true,
+            debug: false,
             offset: 0.5
           })
           .onStepEnter(handleStepEnter)
