@@ -14,7 +14,7 @@ author: Daniel Dykiel
 			
 			article {
 			position: relative;
-			padding: 0 1rem;
+			padding: 0.5rem;
 			margin: 0 auto;
 			width: 100%;
 			}
@@ -28,14 +28,14 @@ author: Daniel Dykiel
 			}
 
 			.step.is-active {
-			  background-color: black;
+			  background-color: white;
 			    color: #3b3b3b;
 			    opacity: 100%;
 			}
 			
 			.step p {
 			text-align: center;
-			padding: 1rem;
+			padding: 0.5rem;
 			font-size: 1rem;
 			}
 			
