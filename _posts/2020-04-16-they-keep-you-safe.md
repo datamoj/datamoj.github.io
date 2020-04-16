@@ -53,14 +53,19 @@ author: Daniel Dykiel
           <div class="step" data-step="2">
            <p>I wake up with moving skin. In the night, it’s become a living being. My lover’s warmth seeps my arm, and I feel it from outside of myself. They ask me about my dreams and I don’t tell them. </p>
 	<p>Weeks later, I stand in front of a Dali painting and almost have a panic attack. The mania rises, compounds. I still it with my breaths, but the levels keep getting higher. I can’t pull myself away. </p>
-	<p>A friend once told me the way LSD changes your brain chemistry. He gets caught in simple, repetitive motions, still moments. Particles of the drug are released into his system, irrevocable embedded into him. He falls into the clinking of a spoon against a cup, the swirling of the cream and coffee. A moment turned more lucid, more evocative than reality. </p>
-	<p>I hadn’t really believed him, at the time. But the painting moves. It pulls me in. The mythical texture of the paint—no photograph could ever do it justice. I lose myself in it and lose my partner in the gallery. Like so many times before, we miss each other. <i>I thought you needed space; I wanted you there. I thought it didn’t matter; it was a small moment that cut deep.</i></p> 
           </div>
           <div class="step" data-step="3">
+	  <p>A friend once told me the way LSD changes your brain chemistry. He gets caught in simple, repetitive motions, still moments. Particles of the drug are released into his system, irrevocable embedded into him. He falls into the clinking of a spoon against a cup, the swirling of the cream and coffee. A moment turned more lucid, more evocative than reality. </p>
+	<p>I hadn’t really believed him, at the time. But the painting moves. It pulls me in. The mythical texture of the paint—no photograph could ever do it justice. I lose myself in it and lose my partner in the gallery. Like so many times before, we miss each other. <i>I thought you needed space; I wanted you there. I thought it didn’t matter; it was a small moment that cut deep.</i></p> 
            </div>
           <div class="step" data-step="4">
-           
+           <p>This is a softer opening. Warm skin and open lips, gold tinted hair and sleepy mornings in slanted sunlight. Two people who love each other, two people who hurt each other, two people who learn and grow together.</p> 
+	<p>Aches and pains buried, blackened earth crumbling.  A moment of stillness before confession. Terrified breath. Streaked hands when we dig them out again. We bury them again, lay them to rest. Cultivate a tenuous reconciliation. We grow, reach each other again.</p>
+	<p>Work that is difficult, heart-wrenching, rewarding: but we don’t let it kill.</p>
           </div>
+	  <div class="step" data-step="5">
+	  <a href="https://imgur.com/1ZUCW1N"><img src="https://i.imgur.com/1ZUCW1N.jpg" title="source: imgur.com" /></a>
+	  </div>
         </article>
       </section>
 	</main>
@@ -104,7 +109,7 @@ author: Daniel Dykiel
           .setup({
             step: "#scrolly article .step",
             debug: false,
-            offset: 0.5
+            offset: 0.3
           })
           .onStepEnter(handleStepEnter)
           .onStepExit(handleStepExit);
