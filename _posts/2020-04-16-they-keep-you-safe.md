@@ -25,12 +25,13 @@ author: Daniel Dykiel
 			  color: white;
 			  font-family: Arial, Helvetica, sans-serif;
 			  opacity: 15%;
+			  align: center;
 			}
 
 			.step.is-active {
 			  background-color: white;
-			    color: #3b3b3b;
-			    opacity: 100%;
+			  color: #3b3b3b;
+			  opacity: 100%;
 			}
 			
 			.step p {
@@ -64,8 +65,19 @@ author: Daniel Dykiel
 	<p>Work that is difficult, heart-wrenching, rewarding: but we don’t let it kill.</p>
           </div>
 	  <div class="step" data-step="5">
-	  <a href="https://imgur.com/1ZUCW1N"><img src="https://i.imgur.com/1ZUCW1N.jpg" title="source: imgur.com" /></a>
+	  <a href="https://imgur.com/JG8tQaF"><img src="https://i.imgur.com/JG8tQaF.jpg" title="source: imgur.com" /></a>
 	  </div>
+	  <div class ="step" data-step="6":
+	  <h>◆</h>
+	  </div>
+	  <div class="step" data-step="7">
+	  <p>Let’s look at another opening. What my life used to be like before I learned to live it better.</p>
+	  </div>
+	  <div class="step" data-step="8">
+	  <p>So. My brother. The humanitarian, empathetic soul, who didn’t have a violent bone in his body. My brother, who has made my cry more than any other person on earth.</p> 
+<p>In an image more vivid than memory, more crystalline, with thicker and more vibrant strokes:</p>
+<p>His expression visibly darkens. He says, “I already try hard enough not to hit mom.” His voice sends a cold shock through me. He keeps talking in a similar vein. It fills me with a muddy feeling of fear.</p>
+	</div>
         </article>
       </section>
 	</main>
