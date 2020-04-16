@@ -14,13 +14,13 @@ author: Daniel Dykiel
 			
 			article {
 			position: relative;
-			padding: 0.5rem;
+			padding: 0.3rem;
 			margin: 0 auto;
 			width: 100%;
 			}
 			
 			.step {
-			  margin: 0.5rem auto 0.5rem auto;
+			  margin: 0.3rem auto 0.3rem auto;
 			  background-color: white;
 			  color: white;
 			  font-family: Arial, Helvetica, sans-serif;
@@ -35,7 +35,7 @@ author: Daniel Dykiel
 			
 			.step p {
 			text-align: center;
-			padding: 0.5rem;
+			padding: 0.3rem;
 			font-size: 1rem;
 			}
 			
@@ -67,7 +67,7 @@ author: Daniel Dykiel
 	  <p><a href="https://imgur.com/JG8tQaF"><img src="https://i.imgur.com/JG8tQaF.jpg" title="source: imgur.com" /></a></p>
 	  </div>
 	  <div class ="step" data-step="6">
-	  <h>◆</h>
+	  <p><h>◆</h></p>
 	  </div>
 	  <div class="step" data-step="7">
 	  <p>Let’s look at another opening. What my life used to be like before I learned to live it better.</p>
@@ -76,7 +76,7 @@ author: Daniel Dykiel
 	  <p>So. My brother. The humanitarian, empathetic soul, who didn’t have a violent bone in his body. My brother, who has made my cry more than any other person on earth.</p> 
 <p>In an image more vivid than memory, more crystalline, with thicker and more vibrant strokes:</p>
 <p>His expression visibly darkens. He says, “I already try hard enough not to hit mom.” His voice sends a cold shock through me. He keeps talking in a similar vein. It fills me with a muddy feeling of fear.</p>
-<p> debug 3 </p>
+<p> debug 4 </p>
 	</div>
         </article>
       </section>
@@ -121,7 +121,7 @@ author: Daniel Dykiel
           .setup({
             step: "#scrolly article .step",
             debug: false,
-            offset: 0.3
+            offset: 0.5
           })
           .onStepEnter(handleStepEnter)
           .onStepExit(handleStepExit);
