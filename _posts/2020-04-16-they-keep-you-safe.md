@@ -20,7 +20,7 @@ author: Daniel Dykiel
 			}
 			
 			.step {
-			  margin: 1rem auto 1rem auto;
+			  margin: 0.2rem auto 0.2rem auto;
 			  background-color: white;
 			  color: white;
 			  font-family: Arial, Helvetica, sans-serif;
