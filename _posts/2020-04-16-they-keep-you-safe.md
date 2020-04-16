@@ -47,10 +47,10 @@ author: Daniel Dykiel
 	<main>
 	<section id="scrolly">
         <article>
-          <div class="step" data-step="1">
+          <div class="article" data-step="1">
             <p><a href="https://imgur.com/UTrTEFu"><img src="https://i.imgur.com/UTrTEFu.gif" title="source: imgur.com" /></a></p>
           </div>
-          <div class="step" data-step="2">
+          <div class="article" data-step="2">
            <p>I wake up with moving skin. In the night, it’s become a living being. My lover’s warmth seeps my arm, and I feel it from outside of myself. They ask me about my dreams and I don’t tell them. </p>
 	<p>Weeks later, I stand in front of a Dali painting and almost have a panic attack. The mania rises, compounds. I still it with my breaths, but the levels keep getting higher. I can’t pull myself away. </p>
 	<p>A friend once told me the way LSD changes your brain chemistry. He gets caught in simple, repetitive motions, still moments. Particles of the drug are released into his system, irrevocable embedded into him. He falls into the clinking of a spoon against a cup, the swirling of the cream and coffee. A moment turned more lucid, more evocative than reality. </p>
