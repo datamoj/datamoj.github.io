@@ -13,7 +13,7 @@ Datamoj was founded by New College of Florida students and faculty. We created a
 ## About the Authors
 
 ### Daniel Dykiel  
-Daniel likes to create, whether through writing or computer programs. He's most interested in interdisciplinary applications and challenging boundaries between STEM and the humanities. In his free time, Daniel enjoys decorating his dorm room with origami and cooking breakfast food. You can keep up with his projects at [ddykiel.github.io](https://ddykiel.github.io/).
+Daniel is a writer and Computer Science student at New College of Florida. He's especially intruiged by themes of nuance, ambiguity, and empathy. In his free time, Daniel enjoys cooking breakfast food. You can keep up with his projects at [ddykiel.github.io](https://ddykiel.github.io/).
 
 ### Atalay Kutlay
 
