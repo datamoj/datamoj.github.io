@@ -28,7 +28,7 @@ author: Daniel Dykiel
 			}
 
 			.step.is-active {
-			  background-color: white;
+			  background-color: black;
 			    color: #3b3b3b;
 			    opacity: 100%;
 			}
@@ -36,7 +36,7 @@ author: Daniel Dykiel
 			.step p {
 			text-align: center;
 			padding: 1rem;
-			font-size: 0.5rem;
+			font-size: 1rem;
 			}
 			
 		</style>
@@ -56,7 +56,7 @@ author: Daniel Dykiel
           </div>
           <div class="step" data-step="3">
             <p>A friend once told me the way LSD changes your brain chemistry. He gets caught in simple, repetitive motions, still moments. Particles of the drug are released into his system, irrevocable embedded into him. He falls into the clinking of a spoon against a cup, the swirling of the cream and coffee. A moment turned more lucid, more evocative than reality. </p>
-	<p>I hadn’t really believed him, at the time. But the painting moves. It pulls me in. The mythical texture of the paint—no photograph could ever do it justice. I lose myself in it and lose my partner in the gallery. Like so many times before, we miss each other. <i>I thought you needed space; I wanted you there. I thought it didn’t matter; it was a small moment that cut deep.</i><p> 
+	<p>I hadn’t really believed him, at the time. But the painting moves. It pulls me in. The mythical texture of the paint—no photograph could ever do it justice. I lose myself in it and lose my partner in the gallery. Like so many times before, we miss each other. <i>I thought you needed space; I wanted you there. I thought it didn’t matter; it was a small moment that cut deep.</i></p> 
           </div>
           <div class="step" data-step="4">
            <p>Nightmares. For weeks on end.</p> 
