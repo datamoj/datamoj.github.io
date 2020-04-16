@@ -6,8 +6,9 @@ author: Daniel Dykiel
 <html>
   
 	<head>
+	 <meta charset="utf-8" />
 		<style>
-			#scroll {
+			#scrolly {
 			  position: relative;
 			}
 			.scroll__text {
@@ -41,6 +42,7 @@ author: Daniel Dykiel
 		</style>
 
 	</head>
+	
 	<body>
 	<main>
 	<section id="scroll">
@@ -59,15 +61,15 @@ author: Daniel Dykiel
           </div>
         </article>
       </section>
-	
 	</main>
-	#JS goes here
+	
+	//JS goes here
 	<script src="https://unpkg.com/intersection-observer"></script>
 	<script src="https://unpkg.com/scrollama"></script>
 	<script>
 	  var scrolly = document.querySelector("#scrolly");
-      var article = scrolly.querySelector("article");
-      var step = article.querySelectorAll(".step");
+          var article = scrolly.querySelector("article");
+          var step = article.querySelectorAll(".step");
 
       // initialize the scrollama
       var scroller = scrollama();
