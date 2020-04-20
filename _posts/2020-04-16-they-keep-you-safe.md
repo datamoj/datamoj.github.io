@@ -23,7 +23,7 @@ author: Daniel Dykiel
 			  margin: 0.3rem auto 0.3rem auto;
 			  background-color: white;
 			  color: white;
-			  font-family: Arial, Helvetica, sans-serif;
+			  font-family: Bookman;
 			  opacity: 15%;
 			}
 
@@ -52,7 +52,7 @@ author: Daniel Dykiel
           </div>
           <div class="step" data-step="2">
            <p>I wake up with moving skin. In the night, it’s become a living being. My lover’s warmth seeps my arm, and I feel it from outside of myself. They ask me about my dreams and I don’t tell them. </p>
-	<p>Weeks later, I stand in front of a Dali painting and almost have a panic attack. The mania rises, compounds. I still it with my breaths, but the levels keep getting higher. I can’t pull myself away. </p>
+	<p>Weeks later, I stand in front of a Dalí painting and almost have a panic attack. The mania rises, compounds. I still it with my breaths, but the levels keep getting higher. I can’t pull myself away. </p>
           </div>
           <div class="step" data-step="3">
 	  <p>A friend once told me the way LSD changes your brain chemistry. He gets caught in simple, repetitive motions, still moments. Particles of the drug are released into his system, irrevocable embedded into him. He falls into the clinking of a spoon against a cup, the swirling of the cream and coffee. A moment turned more lucid, more evocative than reality. </p>
@@ -119,7 +119,7 @@ author: Daniel Dykiel
 	</div>
 	<div class="step" data-step="18">
 	 <p><a href="https://imgur.com/Z9xOi8m"><img src="https://i.imgur.com/Z9xOi8m.jpg" title="source: imgur.com" /></a></p>
-	<p><i>"The Cure for Hate," Tony McAleer"</i></p>
+	<p><i>"The Cure for Hate," Tony McAleer</i></p>
 	</div>
 	<div class="step" data-step="19">
 	 <p>His memoir is about white supremacy—but the story he describes is imbued, not so separate in ourselves. Fallacies of ego leading to lack of empathy; disconnect in close relationships; people who aren’t fundamentally bad doing bad things.</p> 
@@ -135,11 +135,11 @@ author: Daniel Dykiel
 <p>A nerve, reaching out through my fingertips, wrapping itself in a part of myself so deep I can’t touch it. Fear of being that same way again—of trying to speak, and not being heard, not being cared for.</p></div>
 	<div class="step" data-step="22">
 	<p>My partner hadn’t done anything wrong. They showed me their love a thousand-fold, in other ways, and it was selfish to ask for more. This was another reason, I thought, to keep this to myself. This dark, childish part of myself—a destructive, tempest-like impulse. Let him wreak havoc on myself. I’ll keep him contained in my thoughts. And if he sends nightmares rising up to me, then so be it.</p>
-<p>But things have a way of breaking. They always do. And it’s on a sun-drenched day that I stand in front of the painting at the Dali. I may not be asleep, but I might as well be. I stand captured by a painting while the world whirls around outside. The sheer contrast, the ridiculous of the situation, does not escape me. This has to end.</p>
+<p>But things have a way of breaking. They always do. And it’s on a sun-drenched day that I stand in front of the painting at the Dalí. I may not be asleep, but I might as well be. I stand captured by a painting while the world whirls around outside. The sheer contrast, the ridiculous of the situation, does not escape me. This has to end.</p>
 	</div>
 	<div class="step" data-step="23">
 	 <p><a href="https://imgur.com/Jxky3iE"><img src="https://i.imgur.com/Jxky3iE.jpg" title="source: imgur.com" /></a></p>
-	<p><i>The Dali Museum, St. Petersburg, FL, photograph from expedia.com</i></p>
+	<p><i>The Dalí Museum, St. Petersburg, FL, photograph from expedia.com</i></p>
 	</div>
 	<div class="step" data-step="24">
 	 <p>Your brother hurts you, one nightmare says. You’re hurting yourself, says another. And no matter how carefully-constructed the justifications, the logic, the decisions of who I want to be and how I want to be—the nightmares always win.</p>
