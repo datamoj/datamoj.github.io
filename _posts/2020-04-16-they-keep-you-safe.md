@@ -88,7 +88,7 @@ author: Daniel Dykiel
 	</div>
 	<div class="step" data-step="11">
 	 <p><a href="https://imgur.com/0gxvcUw"><img src="https://i.imgur.com/0gxvcUw.png" title="source: imgur.com" /></a></p>
-	<p><i>Photograph, me and my brother, circa  2006<i/></p>
+	<p><i>Photograph, me and my brother, circa  2006</i></p>
 	</div>
 	<div class="step" data-step="12">
 	 <p>It’s time to talk about the dog. And this is where the danger starts. The spectre I still dance around. Snapping, barking. Too easy to turn sentimental,molded by circumstance. Too easy to fall into his voice. I’m not afraid of him anymore, but he gives me sharp edges I can’t smooth over.</p>
