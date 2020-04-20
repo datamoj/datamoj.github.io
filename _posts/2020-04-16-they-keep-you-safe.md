@@ -72,7 +72,7 @@ author: Daniel Dykiel
             <p><i>Before It Bites, personal essay, 07/24/2018 </i></p>
 	  </div>
 	  <div class="step" data-step="7">
-	  <p>So. My brother. The humanitarian, empathetic soul, who didn’t have a violent bone in his body. My brother, who has made my cry more than any other person on earth.</p> 
+	  <p>So. My brother. The humanitarian, empathetic soul, who didn’t have a violent bone in his body. My brother, who has made my cry more than any other person on earth.</p>
 <p>In an image more vivid than memory, more crystalline, with thicker and more vibrant strokes:</p>
 <p>His expression visibly darkens. He says, “I already try hard enough not to hit mom.” His voice sends a cold shock through me. He keeps talking in a similar vein. It fills me with a muddy feeling of fear.</p>
 	  </div>
@@ -84,7 +84,7 @@ author: Daniel Dykiel
 	 <p>And in a memory more semantic—nowhere in my journals, but wrapped in my fiction, in my vision—my brother grabs and shakes my shoulders. His face shadowed, inscrutable. His hands close around my throat. He lifts me toward the sky and my feet kick desperately for solid ground.</p>
 	</div>
 	<div class="step" data-step="10">
-	 <p>At that time, the dream of my brother felt entirely unexpected. I didn’t know I was being gaslit. I didn’t know I was slowly being traumatized. All I knew is that I had a nightmare and an archetype. A vision overlaid, not of who he was, but of who he could be. Who he was sometimes. Who he was to me.</p>
+	 <p>At that time, the dream of my brother felt entirely unexpected. I didn’t know I was being <a href="https://en.wikipedia.org/wiki/Gaslighting">gaslit.</a> I didn’t know I was slowly being traumatized. All I knew is that I had a nightmare and an archetype. A vision overlaid, not of who he was, but of who he could be. Who he was sometimes. Who he was to me.</p>
 	</div>
 	<div class="step" data-step="11">
 	 <p><a href="https://imgur.com/0gxvcUw"><img src="https://i.imgur.com/0gxvcUw.png" title="source: imgur.com" /></a></p>
@@ -130,13 +130,34 @@ author: Daniel Dykiel
 	<p><i>"The God of Small Things," Arundhati Roy</i></p>
 	</div>
 	<div class="step" data-step="21">
-	 
+	 <p>My partner leaving me alone a night I was upset, thinking I wanted space. A small gift treated carelessly—(and wasn’t this why I had dreamt of origami, folded so carefully, set on fire?)<p>
+<p>I embodied some of my old fatalism, the same edges that couldn’t be smoothed over. <i>There’s no point in talking about it,</i> said a small, cutting sliver. <i>Your partner says they love you—and that might be true. But what’s the point if they don’t love you the way you want to be loved?</i><p>
+<p>A nerve, reaching out through my fingertips, wrapping itself in a part of myself so deep I can’t touch it. Fear of being that same way again—of trying to speak, and not being heard, not being cared for.</p>
 	</div>
 	<div class="step" data-step="22">
-	 
+	 <p>My partner hadn’t done anything wrong. They showed me their love a thousand-fold, in other ways, and it was selfish to ask for more. This was another reason, I thought, to keep this to myself. This dark, childish part of myself—a destructive, tempest-like impulse. Let him wreak havoc on myself. I’ll keep him contained in my thoughts. And if he sends nightmares rising up to me, then so be it.</p>
+<p>But things have a way of breaking. They always do. And it’s on a sun-drenched day that I stand in front of the painting at the Dali. I may not be asleep, but I might as well be. I stand captured by a painting while the world whirls around outside. The sheer contrast, the ridiculous of the situation, does not escape me. This has to end.</p>
 	</div>
 	<div class="step" data-step="23">
-	 
+	 <p><a href="https://imgur.com/Jxky3iE"><img src="https://i.imgur.com/Jxky3iE.jpg" title="source: imgur.com" /></a></p>
+	<p><i>The Dali Museum, St. Petersburg, FL, photograph from expedia.com</i></p>
+	</div>
+	<div class="step" data-step="24">
+	 <p>Your brother hurts you, one nightmare says. You’re hurting yourself, says another. And no matter how carefully-constructed the justifications, the logic, the decisions of who I want to be and how I want to be—the nightmares always win.</p>
+	</div>
+	<div class="step" data-step="25">
+	 <p>To talk—a painstaking, blasphemous ritual. Even when you’re sick of the sound of your own voice. Even when you don’t want your words to be important.</p> 
+<p>You give shapes to them. You give names to them. You cradle them and nurture them; you smother them; you leave them in the woods to die.<p>
+	<p><i>I love you. You know this,</i> my partner says, the way they had so many times before. Except this time, it meant something slightly different. Not in essence, but in practice. <i>We’ll work on it.</i></p>
+	</div>
+	<div class="step" data-step="26">
+<p>It’s my belief that no emotion, no thought, no dream, is inherently without value. They calibrate your inner world. They signal; they cycle; they have to be felt before you can move beyond them. Sometimes, they tell you where to dig deeper. Sometimes, they do the work for you.</p>
+<p>My nightmares aren’t always decipherable. They’re never pleasant. Many of them feel more real than my memories; and, by any significant measure, they are.</p> 
+	</div>
+	<div class="step" data-step="27">
+	 <p>My mother’s voice on the telephone, where we speak civilly and coldly to each other, means little in comparison to the dream where she tries to break into my barricaded room. The room I stayed in over one summer, with its cheerful bedding and low window, means less than the pale, ghostly figure who walks through it, leading my mentor by the hand, through a door that doesn’t exist.</p>
+<p>Nightmares are deeply personal. I wrote this piece chiefly as an ode, to thank them for all they have done for me. Perhaps, in doing so, I will clear their name slightly. But I have no way of knowing other people’s psychologies, the relationship they have with them.</p>
+	<p>To myself, I can only say: be grateful to your nightmares. They keep you safe.</p>
 	</div>
         </article>
       </section>
