@@ -115,7 +115,7 @@ author: Daniel Dykiel
 	<div class="step" data-step="17">
 	 <p>I was having nightmares, I knew, because a capital-C conversation loomed. Normally, I was borderline obsessive about addressing issues before they grew. I would pass over lines of communication—a pencil pressed down into paper again and again until it tears.</p>
 <p>But this—I didn’t have words for it. It was too nebulous, too fundamental. And there seemed to be danger in giving this spectre life: in giving it breath and form.</p>
-<p>Tony McAleer says,M/p> 
+<p>Tony McAleer says,</p> 
 	</div>
 	<div class="step" data-step="18">
 	 <p><a href="https://imgur.com/Z9xOi8m"><img src="https://i.imgur.com/Z9xOi8m.jpg" title="source: imgur.com" /></a></p>
