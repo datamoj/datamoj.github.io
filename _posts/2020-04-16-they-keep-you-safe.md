@@ -131,7 +131,7 @@ author: Daniel Dykiel
 	</div>
 	<div class="step" data-step="21">
 	<p>My partner leaving me alone a night I was upset, thinking I wanted space. A small gift treated carelessly—(and wasn’t this why I had dreamt of origami, folded so carefully, set on fire?)<p>
-<p>I embodied some of my old fatalism, the same edges that couldn’t be smoothed over. <i>There’s no point in talking about it,</i> said a small, cutting sliver. <i>Your partner says they love you—and that might be true. But what’s the point if they don’t love you the way you want to be loved?</i><p>
+<p>I embodied some of my old fatalism, the same edges that couldn’t be smoothed over. <i>There’s no point in talking about it,</i> said a small, cutting sliver. <i>Your partner says they love you—and that might be true. But what’s the point if they don’t love you the way you want to be loved?</i></p>
 <p>A nerve, reaching out through my fingertips, wrapping itself in a part of myself so deep I can’t touch it. Fear of being that same way again—of trying to speak, and not being heard, not being cared for.</p></div>
 	<div class="step" data-step="22">
 	<p>My partner hadn’t done anything wrong. They showed me their love a thousand-fold, in other ways, and it was selfish to ask for more. This was another reason, I thought, to keep this to myself. This dark, childish part of myself—a destructive, tempest-like impulse. Let him wreak havoc on myself. I’ll keep him contained in my thoughts. And if he sends nightmares rising up to me, then so be it.</p>
