@@ -23,7 +23,7 @@ author: Daniel Dykiel
 			  margin: 0.3rem auto 0.3rem auto;
 			  background-color: white;
 			  color: white;
-			  font-family: Bookman;
+			  font-family: Lucida Sans;
 			  opacity: 15%;
 			}
 
@@ -142,11 +142,11 @@ author: Daniel Dykiel
 	<p><i>The Dalí Museum, St. Petersburg, FL, photograph from expedia.com</i></p>
 	</div>
 	<div class="step" data-step="24">
-	 <p>Your brother hurts you, one nightmare says. You’re hurting yourself, says another. And no matter how carefully-constructed the justifications, the logic, the decisions of who I want to be and how I want to be—the nightmares always win.</p>
+	<p><i>Your brother hurts you,</i> one nightmare says. <i>You’re hurting yourself,</i> says another. And no matter how carefully-constructed the justifications, the logic, the decisions of who I want to be and how I want to be—the nightmares always win.</p>
 	</div>
 	<div class="step" data-step="25">
 	 <p>To talk—a painstaking, blasphemous ritual. Even when you’re sick of the sound of your own voice. Even when you don’t want your words to be important.</p> 
-<p>You give shapes to them. You give names to them. You cradle them and nurture them; you smother them; you leave them in the woods to die.<p>
+<p>You give shapes to them. You give names to them. You cradle them and nurture them; you smother them; you leave them in the woods to die.</p>
 	<p><i>I love you. You know this,</i> my partner says, the way they had so many times before. Except this time, it meant something slightly different. Not in essence, but in practice. <i>We’ll work on it.</i></p>
 	</div>
 	<div class="step" data-step="26">
