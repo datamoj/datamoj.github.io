@@ -65,6 +65,7 @@ author: Daniel Dykiel
           </div>
 	  <div class="step" data-step="5">
 	  <p><a href="https://imgur.com/JG8tQaF"><img src="https://i.imgur.com/JG8tQaF.jpg" title="source: imgur.com" /></a></p>
+	  <i>Photograph, me and my partner, March 2019</i>
 	  </div>
 	  <div class ="step" data-step="6">
 	   <p>Let’s look at another opening. What my life used to be like before I learned to live it better.</p>
@@ -78,7 +79,7 @@ author: Daniel Dykiel
 	  </div>
 	  <div class="step" data-step="8">
 	<p><a href="https://imgur.com/nIRVqX2"><img src="https://i.imgur.com/nIRVqX2.jpg" title="source: imgur.com" /></a></p>
-	<p><i>“Robbers and Angry Brothers,” dream journal entry, 06/30/2015</i></p>
+	<p><i>“Robbers and Angry Brothers,” dream journal entry, June 2016</i></p>
 	</div>
 	<div class="step" data-step="9">
 	<p>   </p>
@@ -151,7 +152,7 @@ author: Daniel Dykiel
 	</div>
 	<div class="step" data-step="23">
 	 <p><a href="https://imgur.com/Jxky3iE"><img src="https://i.imgur.com/Jxky3iE.jpg" title="source: imgur.com" /></a></p>
-	<p><i>The Dalí Museum, St. Petersburg, FL, photograph from expedia.com</i></p>
+	<p><i>Photograph (expedia.com), The Dalí Museum, St. Petersburg, FL</i></p>
 	</div>
 	<div class="step" data-step="24">
 	<p><i>Your brother hurts you,</i> one nightmare says. <i>You’re hurting yourself,</i> says another. And no matter how carefully-constructed the justifications, the logic, the decisions of who I want to be and how I want to be—the nightmares always win.</p>
