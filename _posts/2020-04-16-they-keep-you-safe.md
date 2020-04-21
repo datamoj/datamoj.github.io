@@ -48,7 +48,7 @@ author: Daniel Dykiel
 	<section id="scrolly">
         <article>
           <div class="step" data-step="1">
-            <p><a href="https://imgur.com/UTrTEFu"><img src="https://i.imgur.com/UTrTEFu.gif" title="source: imgur.com" /></a></p>
+            <p><a href="https://imgur.com/rxwER5F"><img src="https://i.imgur.com/rxwER5F.gif" title="source: imgur.com" /></a></p>
           </div>
           <div class="step" data-step="2">
            <p>I wake up with moving skin. In the night, it’s become a living being. My lover’s warmth seeps my arm, and I feel it from outside of myself. They ask me about my dreams and I don’t tell them. </p>
@@ -69,7 +69,7 @@ author: Daniel Dykiel
 	  <div class ="step" data-step="6">
 	   <p>Let’s look at another opening. What my life used to be like before I learned to live it better.</p>
 	   <p><a href="https://imgur.com/vnYA1Ee"><img src="https://i.imgur.com/vnYA1Ee.png" title="source: imgur.com" /></a></p>
-            <p><i>Before It Bites, personal essay, 07/24/2018 </i></p>
+            <p><i>Before It Bites, personal essay, July 2018 </i></p>
 	  </div>
 	  <div class="step" data-step="7">
 	  <p>So. My brother. The humanitarian, empathetic soul, who didn’t have a violent bone in his body. My brother, who has made my cry more than any other person on earth.</p>
@@ -81,28 +81,36 @@ author: Daniel Dykiel
 	<p><i>“Robbers and Angry Brothers,” dream journal entry, 06/30/2015</i></p>
 	</div>
 	<div class="step" data-step="9">
+	<p>   </p>
+	<p>   </p>
 	 <p>And in a memory more semantic—nowhere in my journals, but wrapped in my fiction, in my vision—my brother grabs and shakes my shoulders. His face shadowed, inscrutable. His hands close around my throat. He lifts me toward the sky and my feet kick desperately for solid ground.</p>
+	<p>   </p>
+	<p>   </p>
 	</div>
 	<div class="step" data-step="10">
+	<p>   </p>
+	<p>   </p>
 	 <p>At that time, the dream of my brother felt entirely unexpected. I didn’t know I was being <a href="https://en.wikipedia.org/wiki/Gaslighting">gaslit.</a> I didn’t know I was slowly being traumatized. All I knew is that I had a nightmare and an archetype. A vision overlaid, not of who he was, but of who he could be. Who he was sometimes. Who he was to me.</p>
+	<p>   </p>
+	<p>   </p>
 	</div>
 	<div class="step" data-step="11">
 	 <p><a href="https://imgur.com/0gxvcUw"><img src="https://i.imgur.com/0gxvcUw.png" title="source: imgur.com" /></a></p>
-	<p><i>Photograph, me and my brother, circa  2006</i></p>
+	<p><i>Photograph, me and my brother, circa  2005</i></p>
 	</div>
 	<div class="step" data-step="12">
-	 <p>It’s time to talk about the dog. And this is where the danger starts. The spectre I still dance around. Snapping, barking. Too easy to turn sentimental,molded by circumstance. Too easy to fall into his voice. I’m not afraid of him anymore, but he gives me sharp edges I can’t smooth over.</p>
+	 <p>It’s time to talk about the dog. And this is where the danger starts. The spectre I still dance around. Snapping, barking. Too easy to turn sentimental, molded by circumstance. Too easy to fall into his voice. I’m not afraid of him anymore, but he gives me sharp edges I can’t smooth over.</p>
 <p> His jaws, closing lengthwise along my mouth and nose. He leaves an ice-white scar on my upper lip. I’m twelve, or maybe ten.</p> 
 <p>His jaws, closing around my leg. Older now, fifteen. This time, three little scars in a rough semicircle.</p>
 <p>I run away from home for three days. When I come back, my mother doesn’t speak. <i>What kind of monster would treat an animal like this?</i> she seems to ask. I don’t have the heart to ask them to put him down; only to keep him behind a gate. <i>What kind of monster would blame him?</i></p> 
 	</div>
 	<div class="step" data-step="13">
 	 <p>The dog saves my brother’s life but ruins mine. When he barks at me and shows his gleaming teeth, they blame me. When he fixates on my heels, following closely, lunging and snapping, they blame me.</p>
-<p>This is why, for a period of my life, every conversation with my brother made me cry. This is why entering the blue house with the white shutters made my breath catch in my throat, my muscles tense—the beginning of a fight or flight response. This is why, even now, I feel that a simmering undercurrent of that house wants me dead.</p>
+<p>This is why, for a period of my life, every conversation with my brother made me cry. This is why entering the blue house with the white accents made my breath catch in my throat, my muscles tense—the beginning of a fight or flight response. This is why, even now, I feel that a simmering undercurrent of that house wants me dead.</p>
 	</div>
 	<div class="step" data-step="14">
-	<p> Enter image of house </p>
-	<p><i> Enter caption for image of house</i></p>
+	<p> <a href="https://imgur.com/3zrvtfC"><img src="https://i.imgur.com/3zrvtfC.jpg" title="source: imgur.com" /></a> </p>
+	<p><i> Photograph, my childhood home, April 2020</i></p>
 	</div>
 	<div class="step" data-step="15">
 	 <p>It helps to see events from outside yourself—for your friends to say, <i>that happened? That’s really fucked-up.</i> But there’s still a part of yourself that says, <i>yes, that would be true—if it happened to anyone else. But not when it happens to me.</i></p>
@@ -118,8 +126,12 @@ author: Daniel Dykiel
 <p>Tony McAleer says,</p> 
 	</div>
 	<div class="step" data-step="18">
+	<p>   </p>
+	<p>   </p>
 	 <p><a href="https://imgur.com/Z9xOi8m"><img src="https://i.imgur.com/Z9xOi8m.jpg" title="source: imgur.com" /></a></p>
 	<p><i>"The Cure for Hate," Tony McAleer</i></p>
+	<p>   </p>
+	<p>   </p>
 	</div>
 	<div class="step" data-step="19">
 	 <p>His memoir is about white supremacy—but the story he describes is imbued, not so separate in ourselves. Fallacies of ego leading to lack of empathy; disconnect in close relationships; people who aren’t fundamentally bad doing bad things.</p> 
