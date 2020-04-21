@@ -65,7 +65,7 @@ author: Daniel Dykiel
           </div>
 	  <div class="step" data-step="5">
 	  <p><a href="https://imgur.com/JG8tQaF"><img src="https://i.imgur.com/JG8tQaF.jpg" title="source: imgur.com" /></a></p>
-	  <i>Photograph, me and my partner, March 2019</i>
+	  <p><i>Photograph, me and my partner, March 2019</i></p>
 	  </div>
 	  <div class ="step" data-step="6">
 	   <p>Let’s look at another opening. What my life used to be like before I learned to live it better.</p>
