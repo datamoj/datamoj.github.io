@@ -65,7 +65,7 @@ author: Daniel Dykiel
           </div>
 	  <div class="step" data-step="5">
 	  <p><a href="https://imgur.com/JG8tQaF"><img src="https://i.imgur.com/JG8tQaF.jpg" title="source: imgur.com" /></a></p>
-	  <p><i>Photograph, me and my partner, March 2019</i></p>
+	  <p><i>Photograph by Emily Garcia, me and my partner, March 2019</i></p>
 	  </div>
 	  <div class ="step" data-step="6">
 	   <p>Let’s look at another opening. What my life used to be like before I learned to live it better.</p>
@@ -111,7 +111,7 @@ author: Daniel Dykiel
 	</div>
 	<div class="step" data-step="14">
 	<p> <a href="https://imgur.com/3zrvtfC"><img src="https://i.imgur.com/3zrvtfC.jpg" title="source: imgur.com" /></a> </p>
-	<p><i> Photograph, my childhood home, April 2020</i></p>
+	<p><i> Photograph by Freddie O'Brion, my childhood home, April 2020</i></p>
 	</div>
 	<div class="step" data-step="15">
 	 <p>It helps to see events from outside yourself—for your friends to say, <i>that happened? That’s really fucked-up.</i> But there’s still a part of yourself that says, <i>yes, that would be true—if it happened to anyone else. But not when it happens to me.</i></p>
@@ -155,7 +155,11 @@ author: Daniel Dykiel
 	<p><i>Photograph (expedia.com), The Dalí Museum, St. Petersburg, FL</i></p>
 	</div>
 	<div class="step" data-step="24">
+	<p> </p>
+	<p> </p>
 	<p><i>Your brother hurts you,</i> one nightmare says. <i>You’re hurting yourself,</i> says another. And no matter how carefully-constructed the justifications, the logic, the decisions of who I want to be and how I want to be—the nightmares always win.</p>
+	<p> </p>
+	<p> </p>
 	</div>
 	<div class="step" data-step="25">
 	 <p>To talk—a painstaking, blasphemous ritual. Even when you’re sick of the sound of your own voice. Even when you don’t want your words to be important.</p> 
