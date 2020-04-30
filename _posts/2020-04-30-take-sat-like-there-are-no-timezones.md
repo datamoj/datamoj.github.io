@@ -23,7 +23,7 @@ Even though I can't remember the questions now, it is easy to find a [discussion
 
 <center>
 <img src="http://atalaykutlay.com/datamoj/secondss.png" height="200" />
-<br />
+<br /><br />
 <img src="http://atalaykutlay.com/datamoj/firstss.png" height="200" />
 </center>
 
