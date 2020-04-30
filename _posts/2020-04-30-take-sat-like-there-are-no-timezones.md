@@ -3,7 +3,7 @@ layout: post
 ---
 # Take SAT Like There Are No Timezones
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/H1Wbu_AF2e4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/H1Wbu_AF2e4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br /><br />
 
 
 SAT is one of the widely used standardized exams for college admissions in the United States and some other countries. Every year, more than 2 million American high school graduates sit down for 3 hours to have a good score to reach their dream college. However, the United States is not the only country that you can take the test. There are over 175 countries that high school graduates can go and take the test to try their chance in American colleges. The test is offered 7 times every year in the United States and 4 times internationally. It is a huge operation across the world and not easy to manage. I will tell you my story and how I saw the questions, that I solved laboriously inside the test center, on Reddit just after I finished the test.
@@ -23,8 +23,9 @@ It's been almost 2 years and I can't remember the questions. I remember only one
 
 Even though I can't remember the questions now, it is easy to find a [discussion topic](https://www.reddit.com/r/Sat/comments/8h4th4/official_may_2018_international_sat_discussion/) on Reddit and check the dates. I am not going to share any specific questions here because it is neither ethical nor legal. As an example, here is two screenshots of people asking about questions:
 
-![enter image description here](http://atalaykutlay.com/datamoj/secondss.png)
-![enter image description here](http://atalaykutlay.com/datamoj/firstss.png)
+![](http://atalaykutlay.com/datamoj/secondss.png)
+<br />
+![](http://atalaykutlay.com/datamoj/firstss.png)
 
 I took the test on Saturday May 5th at 8 am. This post was sent about an hour before I went to the test center. And yes, down below this screenshot someone talks about one of the math problems. This message is from a huge "[SAT International Version Discussion](https://www.reddit.com/r/Sat/comments/8h4th4/official_may_2018_international_sat_discussion/)" topic that was created 1.5 hours before I started the exam, and there are both deleted and not deleted messages that are also posted before I went to the test center. If I knew, I could easily look at some of the problems and at least start thinking about them before the exam.
 
