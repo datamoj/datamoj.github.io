@@ -24,7 +24,7 @@ Even though I can't remember the questions now, it is easy to find a [discussion
 <center>
 <img src="http://atalaykutlay.com/datamoj/secondss.png" height="200" />
 <br /><br />
-<img src="http://atalaykutlay.com/datamoj/firstss.png" height="200" /><br />
+<img src="http://atalaykutlay.com/datamoj/firstss.png" height="200" /><br /><br />
 </center>
 
 I took the test on Saturday May 5th at 8 am. This post was sent about an hour before I went to the test center. And yes, down below this screenshot someone talks about one of the math problems. This message is from a huge "[SAT International Version Discussion](https://www.reddit.com/r/Sat/comments/8h4th4/official_may_2018_international_sat_discussion/)" topic that was created 1.5 hours before I started the exam, and there are both deleted and not deleted messages that are also posted before I went to the test center. If I knew, I could easily look at some of the problems and at least start thinking about them before the exam.
